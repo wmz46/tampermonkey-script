@@ -23,6 +23,7 @@
                 codeEl.style.userSelect = 'auto'
             }
         })
+        //复制不弹出登录框
         $("#content_views").unbind("copy")
         //去掉复制小尾巴
         if(window.csdn && window.csdn.copyright && window.csdn.copyright.textData){
