@@ -5,8 +5,8 @@
 // @description  csdn允许不登录复制，去掉复制小尾巴
 // @author       
 // @match        *://blog.csdn.net/*
-// @downloadURL  https://github.com/wmz46/tampermonkey-script/-/raw/master/csdn.js
-// @updateURL    https://github.com/wmz46/tampermonkey-script/-/raw/master/csdn.js
+// @downloadURL  https://raw.githubusercontent.com/wmz46/tampermonkey-script/main/csdn.js
+// @updateURL    https://raw.githubusercontent.com/wmz46/tampermonkey-script/main/csdn.js
 // @icon
 // @grant        none
 // ==/UserScript==
