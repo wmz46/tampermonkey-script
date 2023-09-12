@@ -3,7 +3,7 @@
 // @namespace
 // @version      0.1
 // @description  csdn允许不登录复制，去掉复制小尾巴
-// @author       
+// @author       wangmianzhe
 // @match        *://blog.csdn.net/*
 // @downloadURL  https://raw.githubusercontent.com/wmz46/tampermonkey-script/main/csdn.js
 // @updateURL    https://raw.githubusercontent.com/wmz46/tampermonkey-script/main/csdn.js
